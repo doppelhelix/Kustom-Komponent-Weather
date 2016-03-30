@@ -265,7 +265,7 @@
           "bitmap_alpha": "opacity"
         },
         "internal_formulas": {
-          "bitmap_bitmap": "$if(gv(icon)=tshower, if(ai(isday), gv(tshower-day), gv(tshower-night)), gv(icon)=shower, if(ai(isday), gv(showers-day), gv(showers-night)), gv(icon)=sleet, if(ai(isday), gv(sleet-day), gv(sleet-night)), gv(icon)=lsnow, if(ai(isday), gv(lsnow-day), gv(lsnow-night)), gv(icon)=snow, if(ai(isday), gv(snow-day), gv(snow-night)), gv(icon)=hail, if(ai(isday), gv(hail-day), gv(hail-night)), gv(icon)=fog, if(ai(isday), gv(fog-day), gv(fog-night)), gv(icon)=windy, if(ai(isday), gv(windy-day), gv(windy-night)), gv(icon)=pcloudy, if(ai(isday), gv(pcloudy-day), gv(pcloudy-night)), gv(icon)=mcloudy, if(ai(isday), gv(mcloudy-day), gv(mcloudy-night)), gv(icon)=clear, if(ai(isday), gv(clear-day), gv(clear-night)), gv(gv(icon)))$"
+          "bitmap_bitmap": "$if(gv(icon)=tshower, if(ai(isday), gv(tshower-day), gv(tshower-night)), gv(icon)=shower, if(ai(isday), gv(shower-day), gv(shower-night)), gv(icon)=sleet, if(ai(isday), gv(sleet-day), gv(sleet-night)), gv(icon)=lsnow, if(ai(isday), gv(lsnow-day), gv(lsnow-night)), gv(icon)=snow, if(ai(isday), gv(snow-day), gv(snow-night)), gv(icon)=hail, if(ai(isday), gv(hail-day), gv(hail-night)), gv(icon)=fog, if(ai(isday), gv(fog-day), gv(fog-night)), gv(icon)=windy, if(ai(isday), gv(windy-day), gv(windy-night)), gv(icon)=pcloudy, if(ai(isday), gv(pcloudy-day), gv(pcloudy-night)), gv(icon)=mcloudy, if(ai(isday), gv(mcloudy-day), gv(mcloudy-night)), gv(icon)=clear, if(ai(isday), gv(clear-day), gv(clear-night)), gv(gv(icon)))$"
         }
       }
     ]
