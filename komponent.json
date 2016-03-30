@@ -53,196 +53,196 @@
         "value": "kfile://org.kustom.provider/bitmaps/unknown.png"
       },
       "tornado-day": {
-        "index": 10,
+        "index": 11,
         "type": "BITMAP",
         "title": "tornado-day",
         "toggles": 1,
         "value": "kfile://org.kustom.provider/bitmaps/tornado-day.png"
       },
       "tornado-night": {
-        "index": 10,
+        "index": 12,
         "type": "BITMAP",
         "title": "tornado-night",
         "toggles": 1,
         "value": "kfile://org.kustom.provider/bitmaps/tornado-night.png"
       },
       "tstorm-day": {
-        "index": 10,
+        "index": 13,
         "type": "BITMAP",
         "title": "tstorm-day",
         "toggles": 1,
         "value": "kfile://org.kustom.provider/bitmaps/tstorm-day.png"
       },
       "tstorm-night": {
-        "index": 10,
+        "index": 14,
         "type": "BITMAP",
         "title": "tstorm-night",
         "toggles": 1,
         "value": "kfile://org.kustom.provider/bitmaps/tstorm-night.png"
       },
       "tshower-day": {
-        "index": 10,
+        "index": 15,
         "type": "BITMAP",
         "title": "tshower-day",
         "toggles": 1,
         "value": "kfile://org.kustom.provider/bitmaps/tshower-day.png"
       },
       "tshower-night": {
-        "index": 10,
+        "index": 16,
         "type": "BITMAP",
         "title": "tshower-night",
         "toggles": 1,
         "value": "kfile://org.kustom.provider/bitmaps/tshower-night.png"
       },
       "shower-day": {
-        "index": 10,
+        "index": 17,
         "type": "BITMAP",
         "title": "shower-day",
         "toggles": 1,
         "value": "kfile://org.kustom.provider/bitmaps/shower-day.png"
       },	  
       "shower-night": {
-        "index": 11,
+        "index": 18,
         "type": "BITMAP",
         "title": "shower-night",
         "toggles": 1,
         "value": "kfile://org.kustom.provider/bitmaps/shower-night.png"
       },	
 	  "rain-day": {
-        "index": 12,
+        "index": 19,
         "type": "BITMAP",
         "title": "rain-day",
         "toggles": 1,
         "value": "kfile://org.kustom.provider/bitmaps/rain-day.png"
       },
       "rain-night": {
-        "index": 13,
+        "index": 20,
         "type": "BITMAP",
         "title": "rain-night",
         "toggles": 1,
         "value": "kfile://org.kustom.provider/bitmaps/rain-night.png"
       },
       "sleet-day": {
-        "index": 14,
+        "index": 21,
         "type": "BITMAP",
         "title": "sleet-day",
         "toggles": 1,
         "value": "kfile://org.kustom.provider/bitmaps/sleet-day.png"
       },	
       "sleet-night": {
-        "index": 15,
+        "index": 22,
         "type": "BITMAP",
         "title": "sleet-night",
         "toggles": 1,
         "value": "kfile://org.kustom.provider/bitmaps/sleet-night.png"
       },
       "lsnow-day": {
-        "index": 16,
+        "index": 23,
         "type": "BITMAP",
         "title": "lsnow-day",
         "toggles": 1,
         "value": "kfile://org.kustom.provider/bitmaps/lsnow-day.png"
       },
       "lsnow-night": {
-        "index": 17,
+        "index": 24,
         "type": "BITMAP",
         "title": "lsnow-night",
         "toggles": 1,
         "value": "kfile://org.kustom.provider/bitmaps/lsnow-night.png"
       },
       "snow-day": {
-        "index": 18,
+        "index": 25,
         "type": "BITMAP",
         "title": "snow-day",
         "toggles": 1,
         "value": "kfile://org.kustom.provider/bitmaps/snow-day.png"
       },
       "snow-night": {
-        "index": 19,
+        "index": 26,
         "type": "BITMAP",
         "title": "snow-night",
         "toggles": 1,
         "value": "kfile://org.kustom.provider/bitmaps/snow-night.png"
       },
       "hail-day": {
-        "index": 20,
+        "index": 27,
         "type": "BITMAP",
         "title": "hail-day",
         "toggles": 1,
         "value": "kfile://org.kustom.provider/bitmaps/hail-day.png"
       },
       "hail-night": {
-        "index": 21,
+        "index": 28,
         "type": "BITMAP",
         "title": "hail-night",
         "toggles": 1,
         "value": "kfile://org.kustom.provider/bitmaps/hail-night.png"
       },
       "fog-day": {
-        "index": 22,
+        "index": 29,
         "type": "BITMAP",
         "title": "fog-day",
         "toggles": 1,
         "value": "kfile://org.kustom.provider/bitmaps/fog-day.png"
       },	
       "fog-night": {
-        "index": 23,
+        "index": 30,
         "type": "BITMAP",
         "title": "fog-night",
         "toggles": 1,
         "value": "kfile://org.kustom.provider/bitmaps/fog-night.png"
       },	
       "windy-day": {
-        "index": 24,
+        "index": 31,
         "type": "BITMAP",
         "title": "windy-day",
         "toggles": 1,
         "value": "kfile://org.kustom.provider/bitmaps/windy-day.png"
       },	
       "windy-night": {
-        "index": 25,
+        "index": 32,
         "type": "BITMAP",
         "title": "windy-night",
         "toggles": 1,
         "value": "kfile://org.kustom.provider/bitmaps/windy-night.png"
       },	 
       "pcloudy-day": {
-        "index": 26,
+        "index": 33,
         "type": "BITMAP",
         "title": "pcloudy-day",
         "toggles": 1,
         "value": "kfile://org.kustom.provider/bitmaps/pcloudy-day.png"
       },
       "pcloudy-night": {
-        "index": 27,
+        "index": 34,
         "type": "BITMAP",
         "title": "pcloudy-night",
         "toggles": 1,
         "value": "kfile://org.kustom.provider/bitmaps/pcloudy-night.png"
       },
       "mcloudy-day": {
-        "index": 28,
+        "index": 35,
         "type": "BITMAP",
         "title": "mcloudy-day",
         "toggles": 1,
         "value": "kfile://org.kustom.provider/bitmaps/mcloudy-day.png"
       },
       "mcloudy-night": {
-        "index": 29,
+        "index": 36,
         "type": "BITMAP",
         "title": "mcloudy-night",
         "toggles": 1,
         "value": "kfile://org.kustom.provider/bitmaps/mcloudy-night.png"
       },
       "clear-day": {
-        "index": 30,
+        "index": 37,
         "type": "BITMAP",
         "title": "clear-day",
         "toggles": 1,
         "value": "kfile://org.kustom.provider/bitmaps/clear-day.png"
       },
       "clear-night": {
-        "index": 31,
+        "index": 38,
         "type": "BITMAP",
         "title": "clear-night",
         "toggles": 1,
